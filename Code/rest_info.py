@@ -10,29 +10,42 @@ rest_inspect.columns
 # For the restaurant info, we're interested in the following columns:
 # - DBA: Name of establishment
 # - BORO: self-explanatory
+# - BUILDING: self-explanatory
+# - STREET: self-explanatory
 # - ZIPCODE: self-explanatory
+# - PHONE: self-explanatory
 # - CUISINE DESCRIPTION: self-explanatory
 # - INSPECTION DATE: self-explanatory
-# - VIOLATION DESCRIPTION: self-explanatory
+# - CRITICAL FLAG: self-explanatory
+# - SCORE: Restaurants with a score between 0 and 13 points earn an A, those with 14 to 27 points receive a B and those with 28 or more a C.
 # - GRADE: Restaurant grade
 # Other columns will be dropped
 
+# Creating a copy of the dataframe including only the columns of interest
 red_rest_inspect = rest_inspect[['DBA', 'BORO', 'BUILDING', 'STREET', 'ZIPCODE', 'PHONE', 'CUISINE DESCRIPTION', 'SCORE']].copy()
 red_rest_inspect.head()
+
+# Grouping data and aggregating for mean score
 grouped_data = red_rest_inspect.groupby(['DBA', 'BORO', 'BUILDING', 'STREET', 'ZIPCODE', 'PHONE', 'CUISINE DESCRIPTION'])[['SCORE']].mean()
 grouped_data.reset_index(inplace=True)
 grouped_data.head()
 len(grouped_data)
+
+# Finding missing data and dropping rows with missing values
 grouped_data.isna().sum()
 grouped_data.dropna(inplace=True)
 grouped_data.isna().sum()
+
+# Renaming columns for clarity
 renamed_inspect_2019 = grouped_data.rename(columns={'DBA': 'restaurant_name', 'BORO': 'borough', 'BUILDING': 'building_num', 'STREET': 'street', 'PHONE': 'phone_num', 'ZIPCODE': 'zip_code', 'CUISINE DESCRIPTION': 'cuisine', 'SCORE': 'score'})
 renamed_inspect_2019.head()
+
 # Adding grade column based on average score
 renamed_inspect_2019['grade'] = 'B'
 renamed_inspect_2019.loc[renamed_inspect_2019['score'] < 14,'grade'] = 'A'
 renamed_inspect_2019.loc[renamed_inspect_2019['score'] > 27,'grade'] = 'C'
 renamed_inspect_2019.head()
+
 # Formatting phone numbers and zip codes
 formatted_numbers = []
 for phone_no in renamed_inspect_2019['phone_num']:
@@ -43,7 +56,8 @@ formatted_zips = renamed_inspect_2019['zip_code'].astype('int64')
 renamed_inspect_2019['zip_code'] = formatted_zips
 renamed_inspect_2019.head()
 renamed_inspect_2019.isna().sum()
-# Creating tables for database
+
+# Creating and saving tables for database
 restaurant_info = renamed_inspect_2019[['restaurant_name', 'borough', 'building_num', 'street', 'zip_code', 'phone_num']]
 restaurant_info.set_index('restaurant_name', inplace=True)
 restaurant_info.head()
@@ -58,7 +72,3 @@ restaurant_cuisine = renamed_inspect_2019[['restaurant_name', 'cuisine']]
 restaurant_cuisine.set_index('restaurant_name', inplace=True)
 restaurant_cuisine.head()
 restaurant_cuisine.to_csv('Tables/restaurant_cuisine.csv', encoding='UTF-8')
-
-len(restaurant_info)
-len(restaurant_score)
-len(restaurant_cuisine)
