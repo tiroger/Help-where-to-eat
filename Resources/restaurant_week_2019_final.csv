@@ -1,0 +1,324 @@
+Restaurant,Location,Ratings,Cuisine,Specials
+STK - NYC - Midtown,Midtown West,84% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Tavern on the Green,Midtown West,91% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Lido,Harlem,97% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Becco,Theater District / Times Square,88% Recommend,Italian, $26 Lunch *excluding Saturday 
+Catch New York,Meatpacking District,84% Recommend,Seafood, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Tao Uptown,Midtown East,85% Recommend,Asian, $26 Lunch *excluding weekends 
+Tao Downtown,Chelsea,92% Recommend,Pan-Asian, $42 Dinner *excluding Saturday 
+Serra by Birreria,Gramercy / Flatiron,70% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Red Rooster Harlem,Harlem,91% Recommend,Southern, $26 Lunch *excluding weekends 
+Del Frisco's Double Eagle Steakhouse - New York City,Midtown West,91% Recommend,Steakhouse, $26 Lunch *excluding weekends 
+FIG & OLIVE Fifth Avenue,Midtown East,88% Recommend,Mediterranean, $26 Lunch* | $42 Dinner *excluding Saturday 
+Sarabeth's West,Upper West Side,85% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Rosa Mexicano by Lincoln Center,Lincoln Square,90% Recommend,Mexican, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Bar Boulud,Upper West Side,88% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Boulud Sud,Lincoln Square,93% Recommend,Mediterranean, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Café Boulud,Upper East Side,90% Recommend,French, $26 Lunch M-F | $26 Brunch *Sunday only
+ilili,Gramercy / Flatiron,91% Recommend,Lebanese, $26 Lunch* | $42 Dinner *excluding weekends 
+JoJo,Upper East Side,88% Recommend,Farm-to-table, $26 Lunch *excluding weekends 
+Atlantic Grill Near Lincoln Center,Upper West Side,91% Recommend,Seafood, $26 Lunch M - F | $42 Dinner *excluding Saturday 
+La Pecora Bianca - Midtown,Midtown East,90% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Toloache-Midtown,Theater District / Times Square,90% Recommend,Mexican, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday
+Lincoln Ristorante,Upper West Side,92% Recommend,Italian, $26 Lunch M-F | $26 Brunch *Sunday only 
+The View Restaurant,Theater District / Times Square,87% Recommend,Contemporary American, $42 Dinner *excluding weekends 
+Ocean Prime - New York,Rockefeller Center Midtown,95% Recommend,Seafood, $42 Dinner *excluding Saturdays 
+The Palm Court at The Plaza Hotel,Midtown East,81% Recommend,American, $42 Dinner *excluding Saturday
+La Pecora Bianca - NoMad,Gramercy / Flatiron,93% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Scarpetta,NoMad,77% Recommend,Italian, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Zuma Japanese Restaurant - NY,Midtown East,75% Recommend,Japanese, $26 Lunch *excluding weekends 
+Blue Fin - New York,Theater District / Times Square,86% Recommend,Seafood, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Hakkasan - New York,Midtown West,85% Recommend,Chinese, $26 Lunch *excluding weekends 
+Park Avenue Summer,Gramercy / Flatiron,91% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Empellon Midtown,Midtown East,84% Recommend,Contemporary Mexican, $42 Dinner *excluding weekends 
+'Cesca,Upper West Side,82% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Butter Midtown,Midtown West,83% Recommend,Contemporary American, $26 Lunch $42 Dinner *excluding weekends 
+LAVO Italian Restaurant,Midtown East,90% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Morandi,West Village,85% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Orsay,Upper East Side,90% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Philippe Chow - Uptown,Upper East Side,87% Recommend,Chinese, $26 Lunch* | $42 Dinner *excluding Saturdays 
+La Masseria,Theater District / Times Square,91% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Barbounia,Gramercy / Flatiron,89% Recommend,Mediterranean, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Morimoto New York,Chelsea,90% Recommend,Japanese, $26 Lunch* | $42 Dinner *excluding weekends 
+The Wayfarer,Midtown West,89% Recommend,American, $26 Lunch* | $42 Dinner *excluding Saturday 
+Casa Lever,Midtown East,93% Recommend,Italian, $42 Dinner *excluding weekends 
+Victor's Café,Theater District / Times Square,90% Recommend,Cuban, $26 Lunch *excluding weekends 
+db Bistro moderne,Theater District / Times Square,88% Recommend,French, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Claudette,Greenwich Village,92% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Jams - NYC,Midtown West,81% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Smith & Wollensky - New York,Midtown East,81% Recommend,Steakhouse, $26 Lunch M - F | $42 Dinner *excluding Saturday 
+FIG & OLIVE Meatpacking,Meatpacking District,91% Recommend,Mediterranean, $26 Lunch* | $42 Dinner *excluding Saturday 
+Oxbow Tavern,Upper West Side,84% Recommend,French American, $26 Lunch* | $42 Dinner *excluding weekends 
+Smoke Jazz and Supper Club,Upper West Side,89% Recommend,Contemporary American, $42 Dinner *excluding Saturday 
+Danji,Hell's Kitchen,93% Recommend,Korean, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+21 Club,Midtown West,95% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Molyvos,Midtown West,88% Recommend,Greek, $26 Lunch* | $42 Dinner *excluding Saturdays 
+Lexington Brass,Midtown East,93% Recommend,American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Il Mulino New York - Uptown,Upper East Side,85% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Ousia,Hell's Kitchen,88% Recommend,Mediterranean, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturdays 
+Dos Caminos - Times Square,Theater District / Times Square,73% Recommend,Mexican, $26 Lunch* | $42 Dinner *excluding Saturday 
+T-BAR Steak & Lounge (Upper East Side),Upper East Side,95% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Sarabeth's Park Avenue South,Gramercy / Flatiron,83% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Masseria dei Vini,Midtown West,95% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Kellari Taverna,Theater District / Times Square,90% Recommend,Greek, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Burke & Wills,Upper West Side,94% Recommend,Australian, $42 Dinner *excluding Saturday 
+Marseille,Theater District / Times Square,94% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+L'adresse,Midtown West,95% Recommend,Contemporary American, $26 Lunch* | $42 Dinner *excluding weekends 
+Bocca di Bacco (Hell's Kitchen - 54th St.),Hell's Kitchen,91% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday
+Kyma - Flatiron,Gramercy / Flatiron,94% Recommend,Greek, $26 Lunch M-F | $26 Brunch *Sunday only 
+The Capital Grille - NY - Rockefeller Center,Midtown West,96% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Tommy Bahama - New York,Midtown East,93% Recommend,American, $26 Lunch* | $42 Dinner *excluding Saturday 
+BLACKBARN Restaurant - NoMad,NoMad,79% Recommend,American, $26 Lunch M - F
+La Sirene UWS,Upper West Side,88% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+GAONNURI,Midtown West,90% Recommend,Korean, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Rosa Mexicano - Union Square,Union Square,87% Recommend,Mexican, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Obao,Hell's Kitchen,84% Recommend,Thai, $26 Lunch* | $42 Dinner *excluding weekends 
+Almond,Gramercy / Flatiron,92% Recommend,Farm-to-table, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday
+Ai Fiori,Midtown West,91% Recommend,Contemporary European, $26 Lunch *excluding weekends 
+Cafe d'Alsace,Upper East Side,93% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Hunt & Fish Club NYC,Theater District / Times Square,90% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Rosa Mexicano - First Avenue,Midtown East,90% Recommend,Mexican, $42 Dinner *excluding Saturday 
+Lattanzi,Theater District / Times Square,88% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Glass House Tavern,Theater District / Times Square,89% Recommend,Contemporary American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+The Whitby Bar and Restaurant,Midtown West,94% Recommend,American, $26 Lunch* | $42 Dinner *excluding Saturday 
+La Goulue,Upper East Side,91% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+FIG & OLIVE Uptown,Upper East Side,80% Recommend,Mediterranean, $26 Lunch* | $42 Dinner *excluding Saturday 
+Empellon Taqueria,West Village,80% Recommend,Contemporary Mexican, $42 Dinner *excluding weekends 
+MR CHOW - 57th,Midtown East,77% Recommend,Chinese, $42 Dinner *excluding Saturdays 
+Bocca Di Bacco (Theatre District - 45th St.),Theater District / Times Square,90% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+The Capital Grille - NY – Chrysler Center,Midtown East,98% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Bobo Restaurant,West Village,97% Recommend,French, $42 Dinner *excluding Saturday 
+Rotisserie Georgette,Upper East Side,88% Recommend,French American, $26 Lunch* | $42 Dinner *excluding weekends 
+Brasserie 8 1/2,Midtown West,95% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Casa Nonna - Midtown,Midtown West,91% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Benoit Restaurant and Wine Bar,Midtown West,91% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Ruth's Chris Steak House - New York City - Midtown,Theater District / Times Square,89% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding weekends 
+Sarabeth's Central Park South,Midtown West,85% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Gallaghers Steakhouse - Manhattan,Midtown West,93% Recommend,Steakhouse, $26 Lunch  *excluding Saturday
+Nice Matin,Upper West Side,91% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Sarabeth's East,Upper East Side,79% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+The Ribbon - Midtown,Theater District / Times Square,81% Recommend,Contemporary American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday
+Storico,Upper West Side,86% Recommend,Contemporary Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Armani Ristorante 5th Avenue,Midtown East,82% Recommend,Italian, $26 Lunch *Sunday only | $42 Dinner M - F 
+The Leopard at des Artistes,Upper West Side,91% Recommend,Italian, $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+STK - NYC - Meatpacking,Meatpacking District,73% Recommend,Steakhouse, $42 Dinner *excluding Saturday 
+Felidia,Midtown East,92% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Manzo Ristorante - Eataly NYC Flatiron,Gramercy / Flatiron,76% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+The Lambs Club,Theater District / Times Square,93% Recommend,Contemporary American, $26 Lunch* | $42 Dinner *excluding weekends 
+Bar Italia,Upper East Side,75% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Riverpark,Murray Hill,90% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Club A Steakhouse,Midtown East,96% Recommend,Steakhouse, $42 Dinner *excluding Saturday 
+Michael's,Midtown West,91% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Felice 83,Upper East Side,81% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+STK Rooftop,Meatpacking District,78% Recommend,Contemporary American, $42 Dinner *excluding Saturday 
+Sea Fire Grill,Midtown East,91% Recommend,Seafood, $26 Lunch *excluding weekends 
+Le Rivage,Theater District / Times Square,95% Recommend,French, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+LEGASEA,Midtown West,83% Recommend,Seafood, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Natsumi Restaurant,Theater District / Times Square,88% Recommend,Japanese, $42 Dinner *excluding Saturdays 
+Feroce,Chelsea,85% Recommend,Italian, $26 Lunch *excluding weekends 
+DaDong NY,Midtown West,67% Recommend,Chinese, $26 Lunch* | $42 Dinner *excluding weekends 
+Monkey Bar,Midtown East,87% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Bluebird London NYC,Columbus Circle,80% Recommend,British, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Sant Ambroeus - West Village,West Village,93% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Anassa Taverna,Upper East Side,89% Recommend,Greek, $26 Lunch M-F | $42 Dinner *excluding Saturday
+Boucherie - Union Square,Gramercy / Flatiron,80% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Shun Lee West,Lincoln Square,70% Recommend,Chinese, $26 Lunch* | $42 Dinner *excluding Saturday 
+Chez Josephine,Theater District / Times Square,90% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Match 65 Brasserie (formerly Paris Match),Upper East Side,98% Recommend,French, $42 Dinner *excluding Saturday 
+Philippe Chow - Downtown,Meatpacking District,84% Recommend,Chinese, $26 Lunch* | $42 Dinner *excluding Saturdays 
+Hudson Yards Grill,Garment District / Flower District,69% Recommend,American, $26 Lunch* | $42 Dinner *excluding Saturday 
+Dos Caminos - Park,Gramercy / Flatiron,76% Recommend,Mexican, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Woodpecker by David Burke,NoMad,84% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Casa Mono,Union Square,100% Recommend,Spanish, $26 Lunch M-F 
+Bodega Negra,Meatpacking District,87% Recommend,Contemporary Mexican, $42 Dinner *excluding Saturday 
+Haru Sushi - Amsterdam Ave,Upper West Side,100% Recommend,Japanese, $42 Dinner *excluding Saturday 
+Maiella - LIC,Long Island City,89% Recommend,Italian, $42 Dinner *excluding Saturday 
+Churrascaria Plataforma Brazilian Steakhouse,Theater District / Times Square,93% Recommend,Brazilian Steakhouse, $42 Dinner *excluding weekends 
+Bobby Van's Grill - 50th Street,Theater District / Times Square,92% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+MIFUNE New York,Midtown East,85% Recommend,Japanese, $26 Lunch* | $42 Dinner *excluding weekends 
+Brasserie Cognac East,Upper East Side,87% Recommend,French, $26 Lunch* | $42 Dinner *excluding Saturday 
+Il Cantinori,East Village,90% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Benjamin Steakhouse Prime,Midtown East,NA,American, $26 Lunch *excluding weekends 
+Lincoln Square Steak,Upper West Side,95% Recommend,Steakhouse, $42 Dinner *excluding Saturday 
+Naples 45,Midtown East,90% Recommend,Italian, $42 Dinner *excluding weekends 
+Ammos Estiatorio,Midtown East,87% Recommend,Seafood, $26 Lunch* | $42 Dinner *excluding Saturday 
+Trattoria Zero Otto Nove,Chelsea,91% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Ortzi by Jose Garces,Theater District / Times Square,93% Recommend,Basque, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Obica Mozzarella Bar  Pizza e Cucina,Gramercy / Flatiron,84% Recommend,Italian, $42 Dinner *excluding Saturdays 
+Zengo - NYC,Midtown East,88% Recommend,Asian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Fine & Rare,Murray Hill,93% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Bagatelle - NY,Meatpacking District,91% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Periyali,Gramercy / Flatiron,89% Recommend,Greek, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+David Burke Tavern,Upper East Side,87% Recommend,Contemporary American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Strip House Midtown,Midtown West,87% Recommend,Steak, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Farmer & The Fish - Gramercy,Gramercy / Flatiron,79% Recommend,Farm-to-table, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+.Tarallucci e Vino Upper West Side,Upper West Side,88% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Bann Restaurant,Midtown West,90% Recommend,Korean, $26 Lunch M-F | Brunch *Sunday only | $42 Dinner *excluding Saturday 
+The Flatiron Room,Gramercy / Flatiron,91% Recommend,American, $42 Dinner *excluding Saturday 
+Maloney & Porcelli,Midtown East,93% Recommend,American, $42 Dinner *excluding Saturday 
+Le Coq Rico,Gramercy / Flatiron,92% Recommend,Contemporary French, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Pera Mediterranean Brasserie,Midtown East,93% Recommend,Mediterranean, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Brasserie Ruhlmann,Rockefeller Center Midtown,80% Recommend,French American, $42 Dinner *excluding weekends 
+Etcetera Etcetera,Hell's Kitchen,92% Recommend,Italian, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Socarrat Paella Bar - Midtown East,Midtown East,88% Recommend,Spanish, $26 Lunch* | $42 Dinner *excluding Saturday 
+Socarrat Paella Bar - Chelsea,Chelsea,85% Recommend,Spanish, $26 Lunch* | $42 Dinner *excluding Saturday 
+Felice 64 Wine Bar,Upper East Side,95% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Chazz Palminteri Italian Restaurant,Theater District / Times Square,86% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Todd English at The Plaza Food Hall,Midtown West,88% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday
+Rock Center Cafe,Rockefeller Center Midtown,86% Recommend,Contemporary American, $26 Lunch *excluding weekends 
+Rahi,West Village,80% Recommend,Contemporary Indian, $26 Lunch *Sunday only | $42 Dinner *excluding Saturday 
+Cipriani - Dolci,Midtown East,91% Recommend,Italian, $42 Dinner *excluding Saturday 
+Perrine,Upper East Side,86% Recommend,American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturdays 
+Aretsky's Patroon,Midtown East,97% Recommend,American, $42 Dinner *excluding Weekends 
+Neta,West Village,83% Recommend,Japanese, $26 Lunch* | $42 Dinner *excluding Saturdays 
+Café Centro,Midtown East,95% Recommend,French, $42 Dinner *excluding weekends 
+The Sea Grill,Rockefeller Center Midtown,90% Recommend,Seafood, $42 Dinner *excluding weekends 
+Morton's The Steakhouse - Midtown Manhattan,Midtown East,97% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Davio's - Manhattan,Midtown East,90% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Hanjan,Chelsea,85% Recommend,Korean, $26 Lunch| $42 Dinner *excluding weekends 
+Le Colonial NYC,Midtown East,92% Recommend,Vietnamese, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+High Street on Hudson,West Village,93% Recommend,Contemporary American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Society Cafe,Greenwich Village,93% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Bistro Pierre Lapin,West Village,85% Recommend,French, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Bedford & Co.,Midtown East,84% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Ted's Montana Grill - NYC,Midtown West,94% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+The House in Gramercy Park,Gramercy / Flatiron,85% Recommend,American, $26 Lunch | $26 Brunch *Sunday only | $42 Dinner *excluding Saturdays 
+Inakaya,Theater District / Times Square,89% Recommend,Japanese, $42 Dinner *excluding Saturday 
+American Cut Steakhouse Midtown,Midtown East,69% Recommend,Steakhouse, $42 Dinner *excluding Weekends 
+Pampano New York,Midtown East,87% Recommend,Mexican, $26 Lunch* | $42 Dinner *excluding weekends 
+Shun Lee Palace,Midtown East,76% Recommend,Chinese, $26 Lunch* | $42 Dinner *excluding Saturday 
+Feast,East Village,97% Recommend,Contemporary American, $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Bocca,Gramercy / Flatiron,100% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Rossini's Restaurant,Murray Hill,95% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Il Mulino Prime - Gramercy,Gramercy / Flatiron,75% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Irvington,Union Square,80% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Nick & Stef’s Steakhouse - New York,Midtown West,87% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding weekends 
+Barbetta Restaurant,Theater District / Times Square,85% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Clement,Midtown West,97% Recommend,American, $26 Lunch *excluding weekends 
+Standard Grill,Meatpacking District,84% Recommend,American, $42 Dinner *excluding weekends 
+Dos Caminos – Meatpacking,Meatpacking District,71% Recommend,Mexican, $26 Lunch* | $42 Dinner *excluding Saturday 
+Docks Oyster Bar and Seafood Grill,Murray Hill,88% Recommend,Seafood, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+The Cecil Steakhouse,Harlem,82% Recommend,American, $42 Dinner *excluding Saturdays 
+Empire Steak House- East,Midtown East,93% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding Saturday 
+Osteria 57,Greenwich Village,92% Recommend,Italian, $42 Dinner *excluding Saturdays 
+Empire Steakhouse - 237 West 54 Street off of Broadway,Midtown West,89% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding Saturday 
+Tarallucci e Vino NoMad,NoMad,71% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Trattoria Italienne,Gramercy / Flatiron,87% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Suzuki,Theater District / Times Square,54% Recommend,Japanese, $42 Dinner *excluding weekends 
+Sofrito NYC,Harlem,78% Recommend,Latin / Spanish, $42 Dinner *excluding Saturday 
+.Tarallucci e Vino Union Square,Union Square,81% Recommend,Italian, $26 Lunch* | $26 Brunch *Sunday only | $42 Dinner *excluding weekends
+Gaby Brasserie Française,Midtown West,90% Recommend,French, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Bocca Di Bacco (Chelsea - 20th St.),Chelsea,76% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Merakia,Gramercy / Flatiron,63% Recommend,Greek, $42 Dinner *excluding weekends 
+Giorgio's of Gramercy,Gramercy / Flatiron,94% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Delmonico's Kitchen,Theater District / Times Square,76% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Bobby Van's Grill Times Square,Midtown West,83% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Tender Restaurant,Midtown West,85% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Jue Lan Club,Gramercy / Flatiron,86% Recommend,Chinese, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Altesi Ristorante,Upper East Side,100% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday
+Leonelli Taberna,Gramercy / Flatiron,86% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Astor Court,Midtown East,77% Recommend,International, $26 Lunch* | $42 Dinner *excluding weekends 
+STATE Grill and Bar,Midtown East,86% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+Haru Hell's Kitchen,Hell's Kitchen,95% Recommend,Japanese, $26 Lunch* | $42 Dinner *excluding Saturday 
+The Shakespeare,Midtown East,85% Recommend,British, $26 Lunch* | $42 Dinner *excluding weekends 
+Kingside,Midtown West,87% Recommend,American, $42 Dinner *excluding Saturday 
+La Fonda Del Sol,Midtown East,84% Recommend,Spanish, $26 Lunch* | $42 Dinner *excluding weekends 
+Amma,Midtown East,94% Recommend,Indian, $26 Lunch* | $42 Dinner *excluding Saturdays 
+Frankie & Johnnie's Steakhouse - Manhattan,Midtown West,86% Recommend,Steak, $26 Lunch* | $42 Dinner *excluding weekends 
+Ben and Jack's Steakhouse 44th Street,Midtown East,92% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Il Postino,Midtown East,90% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Bread & Tulips,Gramercy / Flatiron,94% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Vandal,Lower East Side,92% Recommend,Tapas / Small Plates, $42 Dinner *excluding Saturday 
+Bob's Steak & Chop House - New York,Midtown East,100% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding Saturday 
+Blenheim,West Village,92% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Montebello Ristorante Italiano,Midtown East,93% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+1 Darbar,Midtown East,83% Recommend,Indian, $42 Dinner *excluding Saturday 
+Meet the Meat,Astoria,92% Recommend,Steakhouse, $42 Dinner *excluding Saturday 
+Cafe Clover,West Village,93% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Nobu Downtown | Restaurant,Financial District,94% Recommend,Japanese, $26 Lunch *excluding weekends 
+2 Darbar Grill,Midtown East,100% Recommend,Indian, $42 Dinner *excluding Saturday 
+Junoon Main Dining Room,Gramercy / Flatiron,NA,Indian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Left Bank NYC,West Village,100% Recommend,American, $26 Brunch *Sunday only | $42 Dinner *excluding weekends 
+Beauty & Essex- New York,Lower East Side,90% Recommend,Tapas / Small Plates, $42 Dinner *excluding Saturday 
+Mercer Kitchen,SoHo,74% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+The Dutch,SoHo,91% Recommend,American, $26 Lunch *excluding weekends 
+Lafayette,NoHo,88% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Bar Primi,Lower East Side,92% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Lupa,Greenwich Village,91% Recommend,Italian, $26 Lunch *excluding weekends 
+Boucherie - West Village,West Village,81% Recommend,French, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Lure New York,SoHo,96% Recommend,Seafood, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Indochine,NoHo,87% Recommend,Vietnamese, $42 Dinner *excluding Saturday 
+Hearth,East Village,94% Recommend,Italian, $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+The Loyal,West Village,77% Recommend,American, $42 Dinner *excluding weekends 
+Sant Ambroeus SoHo,SoHo,89% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Tamarind - Tribeca,TriBeCa - Downtown,89% Recommend,Indian, $26 Lunch *excluding Saturday 
+El Vez New York,Battery Park,89% Recommend,Mexican, $42 Dinner *excluding weekends 
+Pig and Khao,Lower East Side,92% Recommend,Southeast Asian, $26 Lunch *Sunday only | $42 Dinner *excluding Saturday 
+Sarabeth's TriBeCa,TriBeCa - Downtown,75% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+MAMO Restaurant,SoHo,95% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Leuca,Williamsburg,83% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Bâtard,TriBeCa - Downtown,93% Recommend,French, $42 Dinner *excluding weekends 
+Il Mulino New York - Downtown,Greenwich Village,89% Recommend,Italian, $26 Lunch *excluding weekends 
+BAAR BAAR,East Village,86% Recommend,Contemporary Indian, $42 Dinner *excluding Saturday 
+The Bombay Bread Bar,SoHo,65% Recommend,Indian, $26 Lunch *Sunday only | $42 Dinner *excluding Saturday 
+Little Park,TriBeCa - Downtown,96% Recommend,Contemporary American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Narcissa Restaurant,East Village,92% Recommend,Contemporary American, $42 Dinner *excluding Saturdays 
+MR CHOW - TriBeca,TriBeCa - Downtown,68% Recommend,Chinese, $42 Dinner *excluding Saturdays 
+Essex,Lower East Side,76% Recommend,Fusion / Eclectic, $42 Dinner *excluding Saturday 
+Pera Soho,SoHo,80% Recommend,Mediterranean, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturdays 
+Tribeca Grill,TriBeCa - Downtown,86% Recommend,American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Delmonico's,Financial District,94% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding weekends 
+Dos Caminos - SoHo,SoHo,80% Recommend,Mexican, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Gran Morsi,TriBeCa - Downtown,90% Recommend,Italian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Toloache Thompson St.,Greenwich Village,88% Recommend,Mexican, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Temple Court,Financial District,90% Recommend,American, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Khe-Yo,TriBeCa - Downtown,85% Recommend,Laotian, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+The Osprey,DUMBO / Vinegar Hill,93% Recommend,American, $26 Lunch* | $42 Dinner *excluding weekends 
+SAN CARLO  Osteria Piemonte,SoHo,91% Recommend,Italian, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Osteria della Pace - Eataly NYC Downtown,Financial District,87% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Il Mulino New York - Tribeca,TriBeCa - Downtown,89% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+La Loteria,West Village,90% Recommend,Contemporary Mexican, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Porsena,East Village,97% Recommend,Italian, $42 Dinner *excluding weekends 
+Il Mulino Prime - SoHo,SoHo,71% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Fonda - East Village,East Village,89% Recommend,Contemporary Mexican, $42 Dinner *excluding Saturday 
+10 Corso Como - New York,South Street Seaport,82% Recommend,Italian, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday
+The Woo,SoHo,100% Recommend,Korean, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Socarrat Paella Bar - Nolita,NoLita,93% Recommend,Spanish, $26 Lunch *Sunday only | $42 Dinner *excluding Saturday 
+Antica Pesa,Williamsburg,78% Recommend,Italian, $42 Dinner *excluding Saturday 
+American Cut Steakhouse,TriBeCa - Downtown,71% Recommend,Steakhouse, $42 Dinner *excluding Weekends 
+The Palm Tribeca,TriBeCa - Downtown,89% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+La Sirene,SoHo,94% Recommend,French, $26 Lunch* | $42 Dinner *excluding Saturday 
+CUT By Wolfgang Puck at FS Downtown New York,TriBeCa - Downtown,86% Recommend,Steak, $26 Lunch  *excluding weekends 
+The Capital Grille - NY- Wall Street,Financial District,93% Recommend,Steakhouse, $26 Lunch* | $42 Dinner *excluding weekends 
+Felice 15 Gold Street,Financial District,97% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday 
+Rosa Mexicano - TriBeCa,TriBeCa - Downtown,82% Recommend,Mexican, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Barano,Williamsburg,100% Recommend,Italian, $42 Dinner *excluding Saturday 
+Frankie and Johnnie's Steakhouse - 46th Street,Midtown West,76% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+The Wright,Upper East Side,91% Recommend,American, $26 Lunch *excluding weekends 
+Henry at Life Hotel,NoMad,100% Recommend,"Global, International", $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Strip House Speakeasy,Union Square,85% Recommend,Steakhouse, $42 Dinner *excluding weekends 
+The Morgan Dining Room,Murray Hill,87% Recommend,American, $26 Lunch *excluding weekends 
+The Library at the Public,NoHo,92% Recommend,American, $42 Dinner *excluding Saturday 
+Cipriani - Wall Street,Financial District,84% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Tarallucci e Vino East Village,East Village,88% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+Thalassa,TriBeCa - Downtown,82% Recommend,Seafood, $26 Lunch* | $42 Dinner *excluding weekends 
+Limani,Roslyn,91% Recommend,Mediterranean, $26 Lunch* | $42 Dinner *excluding Saturday 
+Schilling,TriBeCa - Downtown,93% Recommend,Austrian, $26 Lunch M-F | $42 Dinner *excluding Saturday 
+Altesi Downtown,SoHo,90% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding Saturday
+Harold's,SoHo,85% Recommend,American, $42 Dinner *excluding Saturday 
+Benchmark Restaurant,Park Slope,87% Recommend,Contemporary American, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+Bellini,Financial District,78% Recommend,Italian, $26 Lunch *excluding weekends 
+Bistrot Leo,SoHo,100% Recommend,French, $26 Lunch M-F | $26 Brunch *Sunday only | $42 Dinner *excluding Saturday 
+MarkJoseph Steakhouse,Financial District,94% Recommend,Steakhouse, $26 Lunch M-F |$42 Dinner *excluding Saturday 
+ATRIO Wine Bar & Restaurant,Battery Park,75% Recommend,Contemporary American, $26 Lunch* | $42 Dinner *excluding weekends 
+Nonna Beppa,TriBeCa - Downtown,100% Recommend,Italian, $26 Lunch M-F | $26 Brunch *Sunday Only | $42 Dinner *excluding Saturdays 
+The Tuck Room- New York,South Street Seaport,76% Recommend,Gastro Pub, $26 Lunch* | $42 Dinner *excluding Saturday 
+Morton's The Steakhouse - World Trade Center,Financial District,90% Recommend,Steakhouse, $26 Lunch M-F | $42 Dinner *excluding Saturdays 
+Joseph's Restaurant,Financial District,100% Recommend,Italian, $26 Lunch* | $42 Dinner *excluding weekends 
+2 West at The Wagner Hotel,Battery Park,86% Recommend,Contemporary American, $26 Lunch* | $42 Dinner *excluding weekends 
+Greenhouse Cafe,Bay Ridge,88% Recommend,Continental, $26 Lunch* | $42 Dinner *excluding Saturdays 
+"Lorenzo's Restaurant, Bar & Caberet - Hilton Garden Inn - SI",Staten Island,NA,Italian, $42 Dinner *excluding weekends 
+Soogil,East Village,90% Recommend,Korean, $42 Dinner *excluding weekends 
+Senya,Lower East Side,100% Recommend,Japanese, $42 Dinner *excluding Saturday 
+Yellow Magnolia Café,Prospect Heights,91% Recommend,American, $26 Lunch *excluding weekends 
+Stella Trattoria & Bar,Blue Point,91% Recommend,Italian, $26 Lunch *excluding weekends 
