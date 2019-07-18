@@ -1,17 +1,25 @@
 # RESTAURANT WEEK 2019
+## July 22 - August 16, 2019
 
-## Help! Where should I eat??
+### Help! Where should I eat?
 
-With one week left before the start of Restaurant Week 2019...
+Our goal is that this resulting database can be used to quickly finding and visualizing information about NYC restaurants participating in Restaurant Week 2019 and help inform consumer's decision as to which restaurant to patron.
 
+The database contains information about all restaurants participating in Restaurant Week 2019. The database includes the following information for each restaurant:
+- Restaurant Name
+- Address and phone number
+- Cuisine type
+- Inspection score and grade
+- Consumer Rating
+- Top special
 
-Combining:
-1. NYC restaurant inspection data: Open data (csv)
-2. 2018 restaurant week data: Kaggle (csv)
-3. 2019 restaurant week data: NYC Official Guide (scrape)
+The database was created by combining the following datasets:
 
-Match 2018 violations to 2018 restaurant data to help inform consumer's decision for 2019.
+- NYC restaurant inspection data: [Open data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j), available as a csv file
+- Open Table: obtained from scraping the restaurant week [page](https://www.opentable.com/promo.aspx?covers=2&currentview=list&datetime=2019-07-22+19%3A00&latitude=40.803606&longitude=-73.981648&metroid=8&promoid=69&ref=412&size=100&sort=Name)
 
-We plan on using data from Open Data, Kaggle and NYC Official Guide. We will be extracting data from CSVs, and scraping the NYC Official Guide website, cleaning it up, and loading it into a Postgres database.
+### Questions we can answer:
 
-Our goal is that this resulting database could be used for quickly finding and visualizing information about NYC restaurants to help  to help inform consumer's decision for 2019 Restaurant Week.
+Are there any Michelin-Starred Restaurants?
+What are the top 10 restaurant types? How do the reviews say about the top 10 restaurant types?
+Does price serve as the factor affecting the average review / ambience review / value review / food review / service review?

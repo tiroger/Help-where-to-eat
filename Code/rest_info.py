@@ -55,6 +55,15 @@ renamed_inspect_2019['phone_num'] = formatted_numbers
 formatted_zips = renamed_inspect_2019['zip_code'].astype('int64')
 renamed_inspect_2019['zip_code'] = formatted_zips
 renamed_inspect_2019.head()
+
+# Formatting restaurant names to match case
+renamed_inspect_2019['restaurant_name'] = renamed_inspect_2019['restaurant_name'].str.lower()
+renamed_inspect_2019['restaurant_name'] = renamed_inspect_2019['restaurant_name'].str.title()
+
+# Formatting borough to match case
+renamed_inspect_2019['borough'] = renamed_inspect_2019['borough'].str.lower()
+renamed_inspect_2019['borough'] = renamed_inspect_2019['borough'].str.title()
+
 renamed_inspect_2019.isna().sum()
 
 # Creating and saving tables for database
@@ -72,3 +81,13 @@ restaurant_cuisine = renamed_inspect_2019[['restaurant_name', 'cuisine']]
 restaurant_cuisine.set_index('restaurant_name', inplace=True)
 restaurant_cuisine.head()
 restaurant_cuisine.to_csv('Tables/restaurant_cuisine.csv', encoding='UTF-8')
+
+# Opening and reading restaurant week 2018 dataset
+rest_week_2018 = pd.read_csv('Resources/restaurant_week_2018_final.csv', encoding='utf-8')
+rest_week_2018.head()
+
+rest_week_2018.columns
+
+# creating a new datafrane with restaurant website
+rest_website = rest_week_2018[['name', 'website']].copy()
+rest_website.head()
