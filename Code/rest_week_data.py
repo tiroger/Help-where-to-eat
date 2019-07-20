@@ -2,10 +2,12 @@ import numpy as np
 import pandas as pd
 
 # Opening and reading datasets
-rest_inspect = pd.read_csv('Resources/cleaned_restaurant_inspection_data.csv')
+
+rest_inspect = pd.read_csv('../Resources/cleaned_restaurant_inspection_data.csv')
 rest_inspect.head()
 
-rest_week_2019 = pd.read_csv('Resources/restaurant_week_2019_final.csv')
+rest_week_2019 = pd.read_csv('../Resources/restaurant_week_2019_final.csv')
+
 rest_week_2019.head()
 
 #Renaming columns
@@ -15,8 +17,10 @@ rest_week_2019.head()
 rest_week_2019.duplicated().sum()
 rest_inspect.duplicated().sum()
 
-rest_week_2018 = pd.read_csv('Resources/restaurant_week_2018_final.csv')
-rest_week_2018.head()
+
+rest_week_2018 = pd.read_csv('../Resources/restaurant_week_2018_final.csv')
+=======
+
 
 
 rest_week_2018.rename(columns={'name': 'restaurant_name'}, inplace=True)
@@ -86,9 +90,9 @@ restaurant_2019_neighborhood.isna().sum()
 restaurant_2019_neighborhood.to_csv('Final_Tables/restaurant_2019_neighborhood.csv')
 #---
 #4. Restaurant address
-restaurant_2019_address = final_restaurant_week_table[['street_address', 'google_map', 'phone']]
-restaurant_2019_address.head()
-restaurant_2019_address.to_csv('Final_Tables/restaurant_2019_address.csv')
+
+# see Combine_address_data file
+
 #---
 # 5. Yelp Scores
 restaurant_2019_yelp_review = final_restaurant_week_table[['average_review', 'food_review', 'service_review', 'ambience_review', 'value_review']]
