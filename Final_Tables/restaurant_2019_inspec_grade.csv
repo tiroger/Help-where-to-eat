@@ -1,0 +1,327 @@
+restaurant_name,inspection_score,grade
+STK - NYC - Midtown,,
+Tavern on the Green,,
+Lido,14.178571428571427,B
+Becco,14.333333333333336,B
+Catch New York,,
+Tao Uptown,,
+Tao Downtown,18.53846153846154,B
+Serra by Birreria,,
+Red Rooster Harlem,14.105263157894735,B
+Del Frisco's Double Eagle Steakhouse - New York City,,
+FIG & OLIVE Fifth Avenue,,
+Sarabeth's West,,
+Rosa Mexicano by Lincoln Center,,
+Bar Boulud,11.857142857142858,A
+Boulud Sud,18.857142857142858,B
+Café Boulud,,
+ilili,,
+JoJo,,
+Atlantic Grill Near Lincoln Center,,
+La Pecora Bianca - Midtown,,
+Toloache-Midtown,,
+Lincoln Ristorante,9.428571428571429,A
+The View Restaurant,,
+Ocean Prime - New York,,
+The Palm Court at The Plaza Hotel,,
+La Pecora Bianca - NoMad,,
+Scarpetta,24.8,B
+Zuma Japanese Restaurant - NY,,
+Blue Fin - New York,,
+Hakkasan - New York,,
+Park Avenue Summer,,
+Empellon Midtown,,
+'Cesca,27.45454545454545,C
+Butter Midtown,,
+LAVO Italian Restaurant,,
+Morandi,11.285714285714285,A
+Orsay,13.866666666666667,A
+Philippe Chow - Uptown,,
+La Masseria,,
+Barbounia,16.517241379310345,B
+Morimoto New York,,
+The Wayfarer,20.642857142857142,B
+Casa Lever,13.333333333333336,A
+Victor's Café,,
+db Bistro moderne,,
+Claudette,11.333333333333336,A
+Jams - NYC,,
+Smith & Wollensky - New York,,
+FIG & OLIVE Meatpacking,,
+Oxbow Tavern,9.571428571428571,A
+Smoke Jazz and Supper Club,,
+Danji,20.0,B
+21 Club,12.375,A
+Molyvos,22.75862068965517,B
+Lexington Brass,15.827586206896553,B
+Il Mulino New York - Uptown,,
+Ousia,23.1875,B
+Dos Caminos - Times Square,,
+T-BAR Steak & Lounge (Upper East Side),,
+Sarabeth's Park Avenue South,,
+Masseria dei Vini,,
+Kellari Taverna,20.09090909090909,B
+Burke & Wills,,
+Marseille,17.705882352941178,B
+L'adresse,,
+Bocca di Bacco (Hell's Kitchen - 54th St.),,
+Kyma - Flatiron,,
+The Capital Grille - NY - Rockefeller Center,,
+Tommy Bahama - New York,,
+BLACKBARN Restaurant - NoMad,,
+La Sirene UWS,,
+GAONNURI,,
+Rosa Mexicano - Union Square,,
+Obao,24.970588235294123,B
+Obao,19.75675675675676,B
+Almond,25.42857142857143,B
+Ai Fiori,17.708333333333332,B
+Cafe d'Alsace,,
+Hunt & Fish Club NYC,,
+Rosa Mexicano - First Avenue,,
+Lattanzi,18.4,B
+Glass House Tavern,19.071428571428573,B
+The Whitby Bar and Restaurant,,
+La Goulue,,
+FIG & OLIVE Uptown,,
+Empellon Taqueria,,
+MR CHOW - 57th,,
+Bocca Di Bacco (Theatre District - 45th St.),,
+The Capital Grille - NY – Chrysler Center,,
+Bobo Restaurant,17.5,B
+Rotisserie Georgette,17.22222222222222,B
+Brasserie 8 1/2,13.235294117647056,A
+Casa Nonna - Midtown,,
+Benoit Restaurant and Wine Bar,,
+Ruth's Chris Steak House - New York City - Midtown,,
+Sarabeth's Central Park South,,
+Gallaghers Steakhouse - Manhattan,,
+Nice Matin,14.047619047619047,B
+Sarabeth's East,,
+The Ribbon - Midtown,,
+Storico,,
+Armani Ristorante 5th Avenue,,
+The Leopard at des Artistes,,
+STK - NYC - Meatpacking,,
+Felidia,,
+Manzo Ristorante - Eataly NYC Flatiron,,
+The Lambs Club,41.40909090909091,C
+Bar Italia,24.142857142857146,B
+Riverpark,12.307692307692307,A
+Club A Steakhouse,26.741935483870968,B
+Michael's,,
+Felice 83,,
+STK Rooftop,,
+Sea Fire Grill,,
+Le Rivage,11.666666666666664,A
+LEGASEA,,
+Natsumi Restaurant,,
+Feroce,49.0,C
+DaDong NY,,
+Monkey Bar,9.0,A
+Bluebird London NYC,,
+Sant Ambroeus - West Village,,
+Anassa Taverna,15.416666666666664,B
+Boucherie - Union Square,,
+Shun Lee West,,
+Chez Josephine,32.44,C
+Match 65 Brasserie (formerly Paris Match),,
+Philippe Chow - Downtown,,
+Hudson Yards Grill,,
+Dos Caminos - Park,,
+Woodpecker by David Burke,,
+Casa Mono,,
+Bodega Negra,12.3,A
+Haru Sushi - Amsterdam Ave,,
+Maiella - LIC,,
+Churrascaria Plataforma Brazilian Steakhouse,,
+Bobby Van's Grill - 50th Street,,
+MIFUNE New York,,
+Brasserie Cognac East,27.210526315789476,C
+Il Cantinori,,
+Benjamin Steakhouse Prime,11.75,A
+Lincoln Square Steak,22.52631578947368,B
+Naples 45,,
+Ammos Estiatorio,16.73076923076923,B
+Trattoria Zero Otto Nove,,
+Ortzi by Jose Garces,,
+Obica Mozzarella Bar  Pizza e Cucina,,
+Zengo - NYC,,
+Fine & Rare,15.636363636363635,B
+Bagatelle - NY,,
+Periyali,13.142857142857142,A
+David Burke Tavern,29.72,C
+Strip House Midtown,,
+Farmer & The Fish - Gramercy,,
+.Tarallucci e Vino Upper West Side,,
+Bann Restaurant,,
+The Flatiron Room,7.4,A
+Maloney & Porcelli,10.428571428571429,A
+Le Coq Rico,11.416666666666664,A
+Pera Mediterranean Brasserie,12.571428571428573,A
+Brasserie Ruhlmann,15.5,B
+Etcetera Etcetera,9.285714285714286,A
+Socarrat Paella Bar - Midtown East,,
+Socarrat Paella Bar - Chelsea,,
+Felice 64 Wine Bar,17.055555555555557,B
+Chazz Palminteri Italian Restaurant,12.181818181818182,A
+Todd English at The Plaza Food Hall,,
+Rock Center Cafe,23.33333333333333,B
+Rahi,20.95,B
+Cipriani - Dolci,,
+Perrine,11.5,A
+Aretsky's Patroon,,
+Neta,20.153846153846157,B
+Café Centro,,
+The Sea Grill,8.625,A
+Morton's The Steakhouse - Midtown Manhattan,,
+Davio's - Manhattan,,
+Hanjan,13.727272727272727,A
+Le Colonial NYC,,
+High Street on Hudson,,
+Society Cafe,21.153846153846157,B
+Bistro Pierre Lapin,37.0,C
+Bedford & Co.,,
+Ted's Montana Grill - NYC,,
+The House in Gramercy Park,,
+Inakaya,11.375,A
+American Cut Steakhouse Midtown,,
+Pampano New York,,
+Shun Lee Palace,,
+Feast,14.142857142857142,B
+Bocca,16.285714285714285,B
+Rossini's Restaurant,,
+Il Mulino Prime - Gramercy,,
+Irvington,,
+Nick & Stef’s Steakhouse - New York,,
+Barbetta Restaurant,,
+Clement,,
+Standard Grill,,
+Dos Caminos – Meatpacking,,
+Docks Oyster Bar and Seafood Grill,,
+The Cecil Steakhouse,,
+Empire Steak House- East,,
+Osteria 57,25.42857142857143,B
+Empire Steakhouse - 237 West 54 Street off of Broadway,,
+Tarallucci e Vino NoMad,,
+Trattoria Italienne,,
+Suzuki,5.25,A
+Sofrito NYC,,
+.Tarallucci e Vino Union Square,,
+Gaby Brasserie Française,,
+Bocca Di Bacco (Chelsea - 20th St.),,
+Merakia,18.272727272727273,B
+Giorgio's of Gramercy,,
+Delmonico's Kitchen,,
+Bobby Van's Grill Times Square,,
+Tender Restaurant,,
+Jue Lan Club,33.774193548387096,C
+Altesi Ristorante,16.76923076923077,B
+Leonelli Taberna,7.0,A
+Astor Court,,
+STATE Grill and Bar,,
+Haru Hell's Kitchen,,
+The Shakespeare,16.045454545454547,B
+Kingside,,
+La Fonda Del Sol,12.222222222222221,A
+Amma,19.125,B
+Frankie & Johnnie's Steakhouse - Manhattan,,
+Ben and Jack's Steakhouse 44th Street,,
+Il Postino,22.8,B
+Bread & Tulips,7.0,A
+Vandal,15.5,B
+Bob's Steak & Chop House - New York,,
+Blenheim,,
+Montebello Ristorante Italiano,,
+1 Darbar,15.6875,B
+Meet the Meat,,
+Cafe Clover,16.9047619047619,B
+Nobu Downtown | Restaurant,,
+2 Darbar Grill,,
+Junoon Main Dining Room,,
+Left Bank NYC,,
+Beauty & Essex- New York,,
+Mercer Kitchen,17.53846153846154,B
+The Dutch,9.25,A
+Lafayette,22.82608695652174,B
+Bar Primi,22.13333333333333,B
+Lupa,,
+Boucherie - West Village,,
+Lure New York,,
+Indochine,,
+Hearth,10.555555555555557,A
+The Loyal,28.63636363636364,C
+Sant Ambroeus SoHo,,
+Tamarind - Tribeca,,
+El Vez New York,,
+Pig and Khao,,
+Sarabeth's TriBeCa,,
+MAMO Restaurant,,
+Leuca,,
+Bâtard,,
+Il Mulino New York - Downtown,,
+BAAR BAAR,,
+The Bombay Bread Bar,,
+Little Park,9.714285714285714,A
+Narcissa Restaurant,,
+MR CHOW - TriBeca,,
+Essex,15.6875,B
+Pera Soho,25.235294117647058,B
+Tribeca Grill,11.25,A
+Delmonico's,,
+Dos Caminos - SoHo,,
+Gran Morsi,23.56,B
+Toloache Thompson St.,,
+Temple Court,15.833333333333336,B
+Temple Court,30.45,C
+Khe-Yo,13.272727272727273,A
+The Osprey,6.5,A
+SAN CARLO  Osteria Piemonte,,
+Osteria della Pace - Eataly NYC Downtown,,
+Il Mulino New York - Tribeca,,
+La Loteria,11.866666666666667,A
+Porsena,,
+Il Mulino Prime - SoHo,,
+Fonda - East Village,,
+10 Corso Como - New York,,
+The Woo,,
+Socarrat Paella Bar - Nolita,,
+Antica Pesa,18.384615384615387,B
+American Cut Steakhouse,,
+The Palm Tribeca,,
+La Sirene,,
+CUT By Wolfgang Puck at FS Downtown New York,,
+The Capital Grille - NY- Wall Street,,
+Felice 15 Gold Street,,
+Rosa Mexicano - TriBeCa,,
+Barano,23.33333333333333,B
+Frankie and Johnnie's Steakhouse - 46th Street,,
+The Wright,,
+Henry at Life Hotel,,
+Strip House Speakeasy,,
+The Morgan Dining Room,,
+The Library at the Public,,
+Cipriani - Wall Street,,
+Tarallucci e Vino East Village,,
+Thalassa,12.538461538461537,A
+Limani,17.25,B
+Schilling,16.444444444444443,B
+Altesi Downtown,,
+Harold's,,
+Benchmark Restaurant,,
+Bellini,8.727272727272727,A
+Bellini,13.0,A
+Bistrot Leo,20.63636363636364,B
+MarkJoseph Steakhouse,,
+ATRIO Wine Bar & Restaurant,,
+Nonna Beppa,37.0,C
+The Tuck Room- New York,,
+Morton's The Steakhouse - World Trade Center,,
+Joseph's Restaurant,,
+2 West at The Wagner Hotel,,
+Greenhouse Cafe,,
+"Lorenzo's Restaurant, Bar & Caberet - Hilton Garden Inn - SI",,
+Soogil,11.0,A
+Senya,15.625,B
+Yellow Magnolia Café,,
+Stella Trattoria & Bar,,
