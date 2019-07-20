@@ -17,7 +17,9 @@ The database was created by combining the following data sources:
 
 - Open Table: obtained from scraping the restaurant week [page](https://www.opentable.com/promo.aspx?covers=2&currentview=list&datetime=2019-07-22+19%3A00&latitude=40.803606&longitude=-73.981648&metroid=8&promoid=69&ref=412&size=100&sort=Name)
 
-The original data sources indicated above contains 2 csv files including restaurant inspection data and yelp reviews data. We also performed a scraping activity to extract the 2019 participated restaurant data from OpenTable website into a dataframe in pandas and extracted as a csv file.
+- Google API: Used to augment missing restaurant addresses
+
+The original data sources indicated above contains 2 csv files including restaurant inspection data and yelp reviews data. We also performed a scraping activity to extract the 2019 participated restaurant data from OpenTable website into a dataframe in pandas and extracted as a csv file. In addition, we used Google API to augment missing restaurant addresses.
 
 **Transform**:
 
