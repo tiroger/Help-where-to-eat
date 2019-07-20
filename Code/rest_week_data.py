@@ -2,10 +2,10 @@ import numpy as np
 import pandas as pd
 
 # Opening and reading datasets
-rest_inspect = pd.read_csv('Resources/cleaned_restaurant_inspection_data.csv')
+rest_inspect = pd.read_csv('../Resources/cleaned_restaurant_inspection_data.csv')
 rest_inspect.head()
 
-rest_week_2019 = pd.read_csv('Resources/restaurant_week_2019_final.csv')
+rest_week_2019 = pd.read_csv('../Resources/restaurant_week_2019_final.csv')
 rest_week_2019.head()
 
 #Renaming columns
@@ -15,7 +15,7 @@ rest_week_2019.head()
 rest_week_2019.duplicated().sum()
 rest_inspect.duplicated().sum()
 
-rest_week_2018 = pd.read_csv('Resources/restaurant_week_2018_final.csv')
+rest_week_2018 = pd.read_csv('../Resources/restaurant_week_2018_final.csv')
 rest_week_2018.head()
 
 
