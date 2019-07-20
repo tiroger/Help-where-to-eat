@@ -20,6 +20,7 @@ The database was created by combining the following datasets:
 
 ### Questions we can answer:
 
-Are there any Michelin-Starred Restaurants?
 What are the top 10 restaurant types? How do the reviews say about the top 10 restaurant types?
-Does price serve as the factor affecting the average review / ambience review / value review / food review / service review?
+Which neighborhoods have have the most restaurants participating?
+Does neighborhood serve as the factor affecting the average review / ambience review / value review / food review / service review?
+Do Yelp reviews correlate with Open Table reviews?
