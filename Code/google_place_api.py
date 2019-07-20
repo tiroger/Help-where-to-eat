@@ -14,10 +14,6 @@ restaurant_2019_address.head()
 missing_address = restaurant_2019_address[restaurant_2019_address['street_address'].isna() == True]
 missing_address.head()
 
-https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Museum%20of%20Contemporary%20Art%20Australia&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key=AIzaSyDf-fpnpEeSIJZ-zGJPrZDnR1_2LDhFjjw
-
-
-https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=museum%20of%20natural%20arts&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key=AIzaSyDf-fpnpEeSIJZ-zGJPrZDnR1_2LDhFjjw
 url = 'https://maps.googleapis.com/maps/api/place/findplacefromtext/json?'
 
 name = missing_address['restaurant_name']
