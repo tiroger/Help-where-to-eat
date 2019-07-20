@@ -1,9 +1,8 @@
 # RESTAURANT WEEK 2019 - Project Report
-Roger Lefort
-Xiaoqi Wendy Guo
+Roger Lefort and Xiaoqi Wendy Guo
 
 ## Help! Where should I eat?
-### Restaurant Week: July 22 - August 16, 2019
+Restaurant Week: July 22 - August 16, 2019
 
 Our goal is that this resulting database can be used to quickly finding and visualizing information about NYC restaurants participating in Restaurant Week 2019 and help inform consumer's decision as to which restaurant to patron.
 
